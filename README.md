@@ -9,6 +9,13 @@ Written in C.
 - Architecture: ARM Cortex-M4
 
 ## Functionality
+- PC interaction in HID mode
+- Automation of input of passwords, identifiers, tokens and other sensitive information
+- Switching to data reset mode, followed by requesting a new fingerprint
+- User authentication using a fingerprint
+- Selecting an account for authentication
+- Select accounts using the list on the built-in display
+- Storing events in non-volatile flash memory
 - Secure storage of passwords
 - Access to stored data via device interface
 
