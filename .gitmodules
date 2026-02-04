@@ -1,0 +1,4 @@
+[submodule "app/lib/r557"]
+	path = app/lib/r557
+	url = git@github.com:leftboardcuttenstring/stm32_hal_r557_driver.git
+	branch = rig_submodule

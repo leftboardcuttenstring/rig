@@ -19,6 +19,12 @@ Written in C.
 - Secure storage of passwords
 - Access to stored data via device interface
 
+## Accompanying source code
+- Module for fingerprint scanner: https://github.com/leftboardcuttenstring/stm32_hal_r557_driver/tree/rig_submodule
+- Module for SD memory card: none
+- Module for LCD screen: none
+- Module for init the device as a HID device: none
+
 ## Project Structure
 - `app/` — source files
 - `config/` — project config
