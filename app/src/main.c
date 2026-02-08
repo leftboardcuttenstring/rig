@@ -1,4 +1,3 @@
-//#include "stm32f4xx_hal.h" <-- already is in main.h
 #include "main.h"
 
 int main(void)
